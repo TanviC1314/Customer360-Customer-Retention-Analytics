@@ -1,0 +1,5 @@
+* text=auto
+# Keep data files byte-for-byte (the raw CSV is checksum-verified by tests)
+*.csv -text
+*.png binary
+*.pbix binary
