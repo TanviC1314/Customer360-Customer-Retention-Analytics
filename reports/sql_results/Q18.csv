@@ -1,0 +1,4 @@
+contract,active_customers_without_support,mrr_of_target_customers,churn_pct_without_support,churn_pct_with_support,gap_pct_points,illustrative_mrr_protected
+Month-to-month,499,31757.0,58.5,39.7,18.9,5988.0
+One year,44,2890.0,22.8,13.7,9.1,264.0
+Two year,6,418.0,14.3,4.0,10.3,43.0

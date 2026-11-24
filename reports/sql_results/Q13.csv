@@ -1,0 +1,8 @@
+contract,internet_service,payment_method,customers,churn_rate_pct,relative_risk
+Month-to-month,Fiber optic,Electronic check,1307,60.4,2.27
+Month-to-month,Fiber optic,Mailed check,201,50.7,1.91
+Month-to-month,Fiber optic,Bank transfer (automatic),327,45.6,1.72
+Month-to-month,Fiber optic,Credit card (automatic),293,41.6,1.57
+Month-to-month,DSL,Electronic check,474,40.5,1.53
+Month-to-month,DSL,Mailed check,367,30.8,1.16
+Month-to-month,DSL,Credit card (automatic),185,27.0,1.02

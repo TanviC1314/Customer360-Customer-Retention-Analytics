@@ -1,0 +1,4 @@
+contract,customers,arpu,monthly_churn_hazard_pct,expected_lifetime_months_60m_cap,estimated_clv_60m,avg_revenue_to_date
+Month-to-month,3875,66.4,2.37,32.0,2127.0,1369.0
+Two year,1695,60.77,0.05,59.1,3592.0,3707.0
+One year,1473,65.05,0.27,55.4,3605.0,3033.0

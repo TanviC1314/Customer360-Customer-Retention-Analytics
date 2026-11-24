@@ -1,0 +1,13 @@
+churn_rank,contract,tenure_band,internet_service,customers,churned,churn_rate_pct,cumulative_share_of_segment_churners_pct
+1,Month-to-month,0-12 months,Fiber optic,916,643,70.2,34.7
+2,Month-to-month,13-24 months,Fiber optic,425,215,50.6,46.3
+3,Month-to-month,25-48 months,Fiber optic,521,226,43.4,58.5
+4,Month-to-month,0-12 months,DSL,690,293,42.5,74.4
+5,Month-to-month,49-72 months,Fiber optic,266,78,29.3,78.6
+6,Month-to-month,13-24 months,DSL,232,55,23.7,81.5
+7,Month-to-month,0-12 months,No internet,388,88,22.7,86.3
+8,One year,25-48 months,Fiber optic,154,31,20.1,88.0
+9,One year,49-72 months,Fiber optic,355,67,18.9,91.6
+10,Month-to-month,25-48 months,DSL,227,36,15.9,93.5
+11,One year,13-24 months,DSL,79,11,13.9,94.1
+12,Month-to-month,49-72 months,DSL,74,10,13.5,94.7

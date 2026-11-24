@@ -1,0 +1,6 @@
+support_services_held,customers,churn_rate_pct,avg_monthly_charges,change_vs_previous_level_pts
+0,1267,56.67,67.77,
+1,1467,38.85,73.78,-17.81
+2,1372,23.76,79.58,-15.09
+3,941,12.43,82.82,-11.33
+4,470,5.32,90.92,-7.11

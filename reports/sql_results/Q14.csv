@@ -1,0 +1,3 @@
+customer_group,customers,churn_rate_pct,avg_monthly_charges,pct_fiber,pct_month_to_month,pct_electronic_check,pct_tech_support_among_internet
+Non-senior,5901,23.61,61.85,38.4,52.0,30.0,40.3
+Senior,1142,41.68,79.82,72.8,70.7,52.0,23.9

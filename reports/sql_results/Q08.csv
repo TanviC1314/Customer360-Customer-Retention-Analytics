@@ -1,0 +1,6 @@
+segment,customers,share_of_customers_pct,avg_monthly_charges,churn_rate_pct
+1 Loyal (49+ months),2239,31.8,73.95,9.51
+2 Established high-spend,1320,18.7,89.37,37.05
+3 Established standard,1298,18.4,38.48,10.02
+4 New high-spend (<=12 months),880,12.5,83.0,68.07
+5 New standard (<=12 months),1306,18.5,37.97,33.54

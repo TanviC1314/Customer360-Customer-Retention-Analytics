@@ -1,0 +1,5 @@
+contract,paperless_customers,paperless_churn_pct,paper_customers,paper_churn_pct,gap_pct_points
+Two year,785,4.2,910,1.65,2.56
+One year,800,14.75,673,7.13,7.62
+Month-to-month,2586,48.3,1289,31.5,16.8
+All contracts,4171,33.57,2872,16.33,17.24

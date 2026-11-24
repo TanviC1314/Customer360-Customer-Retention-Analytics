@@ -1,0 +1,14 @@
+contract,internet_service,customers,churned,churn_rate_pct,grouping_level
+Month-to-month,Fiber optic,2128,1162,54.6,0
+Month-to-month,DSL,1223,394,32.2,0
+Month-to-month,No internet,524,99,18.9,0
+Month-to-month,all internet types,3875,1655,42.7,1
+One year,Fiber optic,539,104,19.3,0
+One year,DSL,570,53,9.3,0
+One year,No internet,364,9,2.5,0
+One year,all internet types,1473,166,11.3,1
+Two year,Fiber optic,429,31,7.2,0
+Two year,DSL,628,12,1.9,0
+Two year,No internet,638,5,0.8,0
+Two year,all internet types,1695,48,2.8,1
+ALL CONTRACTS,all internet types,7043,1869,26.5,3

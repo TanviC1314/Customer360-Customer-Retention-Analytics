@@ -1,0 +1,13 @@
+internet_service,add_on_bundle,customers,churn_rate_pct
+Fiber optic,Streaming,449,66.37
+Fiber optic,No add-ons,399,60.4
+Fiber optic,Backup,112,51.79
+Fiber optic,Protection + Streaming,242,51.24
+Fiber optic,Backup + Streaming,203,48.77
+Fiber optic,Protection,74,47.3
+DSL,Streaming,125,46.4
+DSL,Protection,50,42.0
+Fiber optic,Security + Streaming,79,41.77
+Fiber optic,TechSupport + Streaming,82,41.46
+DSL,No add-ons,294,41.16
+Fiber optic,Backup + Protection + Streaming,245,39.18

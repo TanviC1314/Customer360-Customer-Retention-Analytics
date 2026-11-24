@@ -1,0 +1,3 @@
+status,customers,avg_monthly_charges,median_monthly_charges
+Retained,5174,61.27,64.43
+Churned,1869,74.44,79.65
