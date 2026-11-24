@@ -1,0 +1,27 @@
+# Environment / secrets
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.coverage
+htmlcov/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Trained model binaries (regenerate with `python -m src.model_training`)
+models/*.joblib
+
+# Local scratch
+scratch/
+*.log

@@ -1,0 +1,29 @@
+# Core data stack
+pandas>=3.0,<4
+numpy>=2.0,<3
+scipy>=1.13
+
+# Visualisation
+matplotlib>=3.9
+seaborn>=0.13
+plotly>=5.20
+kaleido>=1.0
+
+# Machine learning
+scikit-learn>=1.5
+xgboost>=2.1
+joblib>=1.4
+
+# PostgreSQL access
+psycopg2-binary>=2.9
+SQLAlchemy>=2.0
+python-dotenv>=1.0
+
+# Notebooks
+jupyter>=1.0
+nbformat>=5.10
+nbconvert>=7.16
+ipykernel>=6.29
+
+# Testing
+pytest>=8.0
