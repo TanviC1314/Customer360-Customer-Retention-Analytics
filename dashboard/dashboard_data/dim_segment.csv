@@ -1,0 +1,6 @@
+customer_segment,sort_order
+Loyal (49+ months),1
+Established high-spend,2
+Established standard,3
+New high-spend (<=12 months),4
+New standard (<=12 months),5

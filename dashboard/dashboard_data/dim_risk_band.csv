@@ -1,0 +1,4 @@
+risk_band,sort_order,score_range
+Low,1,< 0.30
+Medium,2,0.30 - 0.50
+High,3,>= 0.50

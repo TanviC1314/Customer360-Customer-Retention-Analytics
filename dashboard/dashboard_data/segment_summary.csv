@@ -1,0 +1,28 @@
+churn_rank,contract,tenure_group,internet_service,customers,churned,avg_monthly_charges,active_customers,active_mrr,churn_rate_pct,segment_label
+1,Month-to-month,0-12 months,Fiber optic,916,643,82.08,273,22004.85,70.2,Month-to-month | 0-12 months | Fiber optic
+2,Month-to-month,13-24 months,Fiber optic,425,215,87.54,210,18158.2,50.59,Month-to-month | 13-24 months | Fiber optic
+3,Month-to-month,25-48 months,Fiber optic,521,226,91.24,295,26773.4,43.38,Month-to-month | 25-48 months | Fiber optic
+4,Month-to-month,0-12 months,DSL,690,293,47.88,397,19687.8,42.46,Month-to-month | 0-12 months | DSL
+5,Month-to-month,49-72 months,Fiber optic,266,78,94.95,188,17762.65,29.32,Month-to-month | 49-72 months | Fiber optic
+6,Month-to-month,13-24 months,DSL,232,55,52.68,177,9456.5,23.71,Month-to-month | 13-24 months | DSL
+7,Month-to-month,0-12 months,No internet,388,88,20.27,300,6092.4,22.68,Month-to-month | 0-12 months | No internet
+8,One year,25-48 months,Fiber optic,154,31,96.04,123,11751.65,20.13,One year | 25-48 months | Fiber optic
+9,One year,49-72 months,Fiber optic,355,67,100.49,288,28747.3,18.87,One year | 49-72 months | Fiber optic
+10,Month-to-month,25-48 months,DSL,227,36,53.88,191,10475.45,15.86,Month-to-month | 25-48 months | DSL
+11,One year,13-24 months,DSL,79,11,60.7,68,4119.4,13.92,One year | 13-24 months | DSL
+12,Month-to-month,49-72 months,DSL,74,10,53.05,64,3431.45,13.51,Month-to-month | 49-72 months | DSL
+13,Month-to-month,13-24 months,No internet,80,8,20.68,72,1486.15,10.0,Month-to-month | 13-24 months | No internet
+14,One year,25-48 months,DSL,241,22,61.05,219,13277.25,9.13,One year | 25-48 months | DSL
+15,Two year,49-72 months,Fiber optic,393,28,104.83,365,38231.6,7.12,Two year | 49-72 months | Fiber optic
+16,One year,49-72 months,DSL,208,13,63.67,195,12372.95,6.25,One year | 49-72 months | DSL
+17,One year,0-12 months,No internet,75,4,20.4,71,1451.65,5.33,One year | 0-12 months | No internet
+18,Month-to-month,25-48 months,No internet,54,2,21.06,52,1098.2,3.7,Month-to-month | 25-48 months | No internet
+19,One year,49-72 months,No internet,71,2,21.49,69,1480.1,2.82,One year | 49-72 months | No internet
+20,Two year,49-72 months,DSL,506,11,72.37,495,35869.65,2.17,Two year | 49-72 months | DSL
+21,One year,25-48 months,No internet,123,2,21.05,121,2543.05,1.63,One year | 25-48 months | No internet
+22,Two year,25-48 months,DSL,79,1,65.1,78,5088.85,1.27,Two year | 25-48 months | DSL
+23,Two year,25-48 months,No internet,160,2,21.16,158,3336.05,1.25,Two year | 25-48 months | No internet
+24,One year,13-24 months,No internet,95,1,20.35,94,1913.25,1.05,One year | 13-24 months | No internet
+25,Two year,49-72 months,No internet,364,3,22.2,361,8015.55,0.82,Two year | 49-72 months | No internet
+26,Two year,13-24 months,No internet,64,0,21.43,64,1371.55,0.0,Two year | 13-24 months | No internet
+27,Two year,0-12 months,No internet,50,0,21.15,50,1057.3,0.0,Two year | 0-12 months | No internet

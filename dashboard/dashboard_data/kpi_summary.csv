@@ -1,0 +1,2 @@
+total_customers,churned_customers,active_customers,churn_rate_pct,avg_monthly_charges,avg_tenure_months,active_mrr,lost_mrr,high_risk_active_customers,model_scored_revenue_at_risk_mrr
+7043,1869,5174,26.54,64.76,32.37,316985.75,139130.85,519,39605.45
