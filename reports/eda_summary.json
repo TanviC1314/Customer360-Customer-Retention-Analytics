@@ -1,0 +1,419 @@
+{
+  "overall": {
+    "customers": 7043,
+    "churned": 1869,
+    "retained": 5174,
+    "churn_rate_pct": 26.54
+  },
+  "churn_by": {
+    "contract": [
+      {
+        "contract": "Month-to-month",
+        "customers": 3875,
+        "churned": 1655,
+        "churn_rate_pct": 42.71
+      },
+      {
+        "contract": "One year",
+        "customers": 1473,
+        "churned": 166,
+        "churn_rate_pct": 11.27
+      },
+      {
+        "contract": "Two year",
+        "customers": 1695,
+        "churned": 48,
+        "churn_rate_pct": 2.83
+      }
+    ],
+    "tenure_group": [
+      {
+        "tenure_group": "0-12 months",
+        "customers": 2186,
+        "churned": 1037,
+        "churn_rate_pct": 47.44
+      },
+      {
+        "tenure_group": "13-24 months",
+        "customers": 1024,
+        "churned": 294,
+        "churn_rate_pct": 28.71
+      },
+      {
+        "tenure_group": "25-48 months",
+        "customers": 1594,
+        "churned": 325,
+        "churn_rate_pct": 20.39
+      },
+      {
+        "tenure_group": "49-72 months",
+        "customers": 2239,
+        "churned": 213,
+        "churn_rate_pct": 9.51
+      }
+    ],
+    "internet_service": [
+      {
+        "internet_service": "DSL",
+        "customers": 2421,
+        "churned": 459,
+        "churn_rate_pct": 18.96
+      },
+      {
+        "internet_service": "Fiber optic",
+        "customers": 3096,
+        "churned": 1297,
+        "churn_rate_pct": 41.89
+      },
+      {
+        "internet_service": "No internet",
+        "customers": 1526,
+        "churned": 113,
+        "churn_rate_pct": 7.4
+      }
+    ],
+    "payment_method": [
+      {
+        "payment_method": "Electronic check",
+        "customers": 2365,
+        "churned": 1071,
+        "churn_rate_pct": 45.29
+      },
+      {
+        "payment_method": "Mailed check",
+        "customers": 1612,
+        "churned": 308,
+        "churn_rate_pct": 19.11
+      },
+      {
+        "payment_method": "Bank transfer (automatic)",
+        "customers": 1544,
+        "churned": 258,
+        "churn_rate_pct": 16.71
+      },
+      {
+        "payment_method": "Credit card (automatic)",
+        "customers": 1522,
+        "churned": 232,
+        "churn_rate_pct": 15.24
+      }
+    ],
+    "monthly_charge_band": [
+      {
+        "monthly_charge_band": "<$35",
+        "customers": 1731,
+        "churned": 188,
+        "churn_rate_pct": 10.86
+      },
+      {
+        "monthly_charge_band": "$35-70",
+        "customers": 1721,
+        "churned": 407,
+        "churn_rate_pct": 23.65
+      },
+      {
+        "monthly_charge_band": "$70-90",
+        "customers": 1847,
+        "churned": 701,
+        "churn_rate_pct": 37.95
+      },
+      {
+        "monthly_charge_band": "$90+",
+        "customers": 1744,
+        "churned": 573,
+        "churn_rate_pct": 32.86
+      }
+    ],
+    "senior_citizen": [
+      {
+        "senior_citizen": "No",
+        "customers": 5901,
+        "churned": 1393,
+        "churn_rate_pct": 23.61
+      },
+      {
+        "senior_citizen": "Yes",
+        "customers": 1142,
+        "churned": 476,
+        "churn_rate_pct": 41.68
+      }
+    ]
+  },
+  "churn_by_service_internet_customers": {
+    "tech_support": [
+      {
+        "tech_support": "No",
+        "customers": 3473,
+        "churned": 1446,
+        "churn_rate_pct": 41.64
+      },
+      {
+        "tech_support": "Yes",
+        "customers": 2044,
+        "churned": 310,
+        "churn_rate_pct": 15.17
+      }
+    ],
+    "online_security": [
+      {
+        "online_security": "No",
+        "customers": 3498,
+        "churned": 1461,
+        "churn_rate_pct": 41.77
+      },
+      {
+        "online_security": "Yes",
+        "customers": 2019,
+        "churned": 295,
+        "churn_rate_pct": 14.61
+      }
+    ],
+    "online_backup": [
+      {
+        "online_backup": "No",
+        "customers": 3088,
+        "churned": 1233,
+        "churn_rate_pct": 39.93
+      },
+      {
+        "online_backup": "Yes",
+        "customers": 2429,
+        "churned": 523,
+        "churn_rate_pct": 21.53
+      }
+    ],
+    "device_protection": [
+      {
+        "device_protection": "No",
+        "customers": 3095,
+        "churned": 1211,
+        "churn_rate_pct": 39.13
+      },
+      {
+        "device_protection": "Yes",
+        "customers": 2422,
+        "churned": 545,
+        "churn_rate_pct": 22.5
+      }
+    ],
+    "streaming_tv": [
+      {
+        "streaming_tv": "No",
+        "customers": 2810,
+        "churned": 942,
+        "churn_rate_pct": 33.52
+      },
+      {
+        "streaming_tv": "Yes",
+        "customers": 2707,
+        "churned": 814,
+        "churn_rate_pct": 30.07
+      }
+    ],
+    "streaming_movies": [
+      {
+        "streaming_movies": "No",
+        "customers": 2785,
+        "churned": 938,
+        "churn_rate_pct": 33.68
+      },
+      {
+        "streaming_movies": "Yes",
+        "customers": 2732,
+        "churned": 818,
+        "churn_rate_pct": 29.94
+      }
+    ]
+  },
+  "numeric_by_churn": [
+    {
+      "churn": "No",
+      "tenure_months_mean": 37.57,
+      "tenure_months_median": 38.0,
+      "monthly_charges_mean": 61.27,
+      "monthly_charges_median": 64.43,
+      "total_charges_mean": 2549.91,
+      "total_charges_median": 1679.52,
+      "num_addon_services_mean": 2.14,
+      "num_addon_services_median": 2.0
+    },
+    {
+      "churn": "Yes",
+      "tenure_months_mean": 17.98,
+      "tenure_months_median": 10.0,
+      "monthly_charges_mean": 74.44,
+      "monthly_charges_median": 79.65,
+      "total_charges_mean": 1531.8,
+      "total_charges_median": 703.55,
+      "num_addon_services_mean": 1.77,
+      "num_addon_services_median": 2.0
+    }
+  ],
+  "heatmap_tenure_x_charges": [
+    {
+      "tenure_group": "0-12 months",
+      "<$35": 23.8,
+      "$35-70": 42.9,
+      "$70-90": 65.5,
+      "$90+": 75.8
+    },
+    {
+      "tenure_group": "13-24 months",
+      "<$35": 5.2,
+      "$35-70": 22.3,
+      "$70-90": 39.8,
+      "$90+": 54.5
+    },
+    {
+      "tenure_group": "25-48 months",
+      "<$35": 4.3,
+      "$35-70": 10.3,
+      "$70-90": 29.7,
+      "$90+": 34.4
+    },
+    {
+      "tenure_group": "49-72 months",
+      "<$35": 1.3,
+      "$35-70": 5.2,
+      "$70-90": 6.9,
+      "$90+": 17.0
+    }
+  ],
+  "heatmap_contract_x_internet": [
+    {
+      "contract": "Month-to-month",
+      "DSL": 32.2,
+      "Fiber optic": 54.6,
+      "No internet": 18.9
+    },
+    {
+      "contract": "One year",
+      "DSL": 9.3,
+      "Fiber optic": 19.3,
+      "No internet": 2.5
+    },
+    {
+      "contract": "Two year",
+      "DSL": 1.9,
+      "Fiber optic": 7.2,
+      "No internet": 0.8
+    }
+  ],
+  "association_cramers_v": [
+    {
+      "feature": "contract",
+      "cramers_v": 0.41,
+      "p_value": 5.863038300673391e-258
+    },
+    {
+      "feature": "tenure_group",
+      "cramers_v": 0.349,
+      "p_value": 2.9437703649803846e-185
+    },
+    {
+      "feature": "internet_service",
+      "cramers_v": 0.322,
+      "p_value": 9.571788222840544e-160
+    },
+    {
+      "feature": "payment_method",
+      "cramers_v": 0.303,
+      "p_value": 3.6823546520097993e-140
+    },
+    {
+      "feature": "monthly_charge_band",
+      "cramers_v": 0.234,
+      "p_value": 4.418356237163144e-83
+    },
+    {
+      "feature": "is_autopay",
+      "cramers_v": 0.21,
+      "p_value": 1.8724909223775543e-69
+    },
+    {
+      "feature": "paperless_billing",
+      "cramers_v": 0.192,
+      "p_value": 2.6145974237873335e-58
+    },
+    {
+      "feature": "online_security",
+      "cramers_v": 0.171,
+      "p_value": 8.011674027545989e-47
+    },
+    {
+      "feature": "tech_support",
+      "cramers_v": 0.165,
+      "p_value": 1.9352572963828096e-43
+    },
+    {
+      "feature": "dependents",
+      "cramers_v": 0.164,
+      "p_value": 3.276082809397559e-43
+    },
+    {
+      "feature": "has_household",
+      "cramers_v": 0.163,
+      "p_value": 1.631928969334532e-42
+    },
+    {
+      "feature": "senior_citizen",
+      "cramers_v": 0.151,
+      "p_value": 9.477903507376051e-37
+    },
+    {
+      "feature": "partner",
+      "cramers_v": 0.15,
+      "p_value": 1.5190366200997138e-36
+    },
+    {
+      "feature": "online_backup",
+      "cramers_v": 0.082,
+      "p_value": 5.090089633402985e-12
+    },
+    {
+      "feature": "device_protection",
+      "cramers_v": 0.066,
+      "p_value": 2.8193423167937876e-08
+    },
+    {
+      "feature": "streaming_tv",
+      "cramers_v": 0.063,
+      "p_value": 1.1191217361164188e-07
+    },
+    {
+      "feature": "streaming_movies",
+      "cramers_v": 0.061,
+      "p_value": 2.5868964497412286e-07
+    },
+    {
+      "feature": "has_support_service",
+      "cramers_v": 0.059,
+      "p_value": 7.221340063128609e-07
+    },
+    {
+      "feature": "multiple_lines",
+      "cramers_v": 0.04,
+      "p_value": 0.0007641222520749878
+    },
+    {
+      "feature": "phone_service",
+      "cramers_v": 0.012,
+      "p_value": 0.31624613157395115
+    },
+    {
+      "feature": "gender",
+      "cramers_v": 0.009,
+      "p_value": 0.46983394114265187
+    }
+  ],
+  "correlation_with_churn": {
+    "tenure_months": -0.352,
+    "monthly_charges": 0.193,
+    "total_charges": -0.198,
+    "num_addon_services": -0.088
+  },
+  "mann_whitney_p": {
+    "monthly_charges": 3.311627651988584e-54,
+    "tenure_months": 2.419635517951866e-208
+  }
+}
