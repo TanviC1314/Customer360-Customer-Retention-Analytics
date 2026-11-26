@@ -1,0 +1,6 @@
+cluster,customers,churn_rate_pct,avg_tenure_months,avg_monthly_charges,avg_addon_services,pct_month_to_month,pct_two_year,pct_autopay,pct_fiber,share_of_customers_pct,active_mrr,share_of_churners_pct,cluster_name
+0,1803,40.93,8.64,47.72,0.56,90.24,0.0,0.0,31.39,25.6,43311.05,39.49,"New mid-spend, month-to-month, manual pay"
+1,1513,40.45,30.33,86.45,2.89,73.76,1.32,0.0,75.28,21.48,74769.75,32.74,"Established high-spend, month-to-month, manual pay"
+2,1251,30.62,23.69,66.34,1.76,86.09,0.16,100.0,48.84,17.76,54745.45,20.49,"Established mid-spend, month-to-month, auto-pay"
+3,1502,7.92,61.41,88.61,4.39,3.66,64.85,81.62,51.53,21.33,121416.7,6.37,"Long-standing high-spend, contracted, auto-pay"
+4,974,1.75,45.84,23.82,0.18,0.0,71.77,60.47,0.62,13.83,22742.8,0.91,"Long-standing low-spend, contracted"

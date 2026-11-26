@@ -217,18 +217,30 @@ A real Power BI screenshot will be added when the `.pbix` is built from the guid
 - [x] Business insights and model reports (generated from executed results)
 - [x] 100 automated tests (cleaning, features, model inputs, SQL vs pandas, dashboard reconciliation)
 
-## 19. Phase 2 roadmap (not implemented yet)
-To be added incrementally in this same repository, each with tests, docs, results and its own commits.
+## 19. Phase 2 roadmap
 
-| # | Enhancement |
-|---|---|
-| 1 | Customer segmentation with K-Means (or similar) |
-| 2 | Advanced churn prediction with hyper-parameter tuning |
-| 3 | More detailed feature-importance analysis |
-| 4 | SHAP-based model explanations |
-| 5 | Individual customer churn-risk explanations |
-| 6 | Customer lifetime value prediction |
-| 7 | Retention campaign recommendation engine |
-| 8 | More advanced customer segmentation dashboard |
-| 9 | Automated data refresh pipeline |
-| 10 | Scheduled reporting and analytics |
+| # | Enhancement | Status |
+|---|---|---|
+| 1 | Customer segmentation with K-Means | ✅ Done – `src/segmentation.py`, 10 tests, k=5 (silhouette 0.34), report and figures in `reports/`, dashboard CSVs in `dashboard/dashboard_data/` |
+| 2 | Advanced churn prediction with hyper-parameter tuning | pending |
+| 3 | More detailed feature-importance analysis | pending |
+| 4 | SHAP-based model explanations | pending |
+| 5 | Individual customer churn-risk explanations | pending |
+| 6 | Customer lifetime value prediction | pending |
+| 7 | Retention campaign recommendation engine | pending |
+| 8 | More advanced customer segmentation dashboard | pending |
+| 9 | Automated data refresh pipeline | pending |
+| 10 | Scheduled reporting and analytics | pending |
+
+### Phase 2, item 1 — K-Means segmentation results (k=5, silhouette 0.34)
+
+| Segment | Customers | Churn rate | Share of churners | Avg tenure | Avg monthly | Active MRR |
+|---|---|---|---|---|---|---|
+| New mid-spend, month-to-month, manual pay | 1,803 | 40.9% | 39.4% | 10.4 mo | $60 | $63,787 |
+| Established high-spend, month-to-month, manual pay | 1,513 | 40.5% | 32.8% | 36.6 mo | $91 | $81,985 |
+| Established mid-spend, month-to-month, auto-pay | 1,251 | 30.6% | 20.4% | 34.5 mo | $64 | $55,636 |
+| Long-standing high-spend, contracted, auto-pay | 1,502 | 7.9% | 6.3% | 65.0 mo | $80 | $110,948 |
+| Long-standing low-spend, contracted | 974 | 1.8% | 0.9% | 69.3 mo | $24 | $22,836 |
+
+A silhouette of 0.34 indicates weak-to-moderate separation; segments are useful summaries, not sharply distinct natural groups.
+See `reports/segmentation_results.md` for the full report.

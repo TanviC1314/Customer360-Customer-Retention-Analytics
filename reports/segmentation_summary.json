@@ -1,0 +1,136 @@
+{
+  "k": 5,
+  "scores": [
+    {
+      "k": 2,
+      "inertia": 23183.566410199255,
+      "silhouette": 0.3259035451028259,
+      "stability_ari_mean": 0.9759993595267495,
+      "stability_ari_min": 0.9505508540491763
+    },
+    {
+      "k": 3,
+      "inertia": 17469.230996187245,
+      "silhouette": 0.3344444803917215,
+      "stability_ari_mean": 0.9902545566504204,
+      "stability_ari_min": 0.9779846884519483
+    },
+    {
+      "k": 4,
+      "inertia": 14309.834667226021,
+      "silhouette": 0.2921879183191416,
+      "stability_ari_mean": 0.7295710120479312,
+      "stability_ari_min": 0.47661966452690047
+    },
+    {
+      "k": 5,
+      "inertia": 11625.871146624786,
+      "silhouette": 0.34083058677603545,
+      "stability_ari_mean": 0.991033564516519,
+      "stability_ari_min": 0.9793967728560211
+    },
+    {
+      "k": 6,
+      "inertia": 10150.276587669014,
+      "silhouette": 0.337590725440737,
+      "stability_ari_mean": 0.964807544264942,
+      "stability_ari_min": 0.9053699606542179
+    },
+    {
+      "k": 7,
+      "inertia": 9145.494554471414,
+      "silhouette": 0.32626911163031247,
+      "stability_ari_mean": 0.8243880188313997,
+      "stability_ari_min": 0.7791609280633367
+    },
+    {
+      "k": 8,
+      "inertia": 8129.415326481586,
+      "silhouette": 0.3369746390917549,
+      "stability_ari_mean": 0.9624487332124334,
+      "stability_ari_min": 0.8294311019271934
+    }
+  ],
+  "profile": [
+    {
+      "cluster": 0,
+      "customers": 1803,
+      "churn_rate_pct": 40.93,
+      "avg_tenure_months": 8.64,
+      "avg_monthly_charges": 47.72,
+      "avg_addon_services": 0.56,
+      "pct_month_to_month": 90.24,
+      "pct_two_year": 0.0,
+      "pct_autopay": 0.0,
+      "pct_fiber": 31.39,
+      "share_of_customers_pct": 25.6,
+      "active_mrr": 43311.05,
+      "share_of_churners_pct": 39.49,
+      "cluster_name": "New mid-spend, month-to-month, manual pay"
+    },
+    {
+      "cluster": 1,
+      "customers": 1513,
+      "churn_rate_pct": 40.45,
+      "avg_tenure_months": 30.33,
+      "avg_monthly_charges": 86.45,
+      "avg_addon_services": 2.89,
+      "pct_month_to_month": 73.76,
+      "pct_two_year": 1.32,
+      "pct_autopay": 0.0,
+      "pct_fiber": 75.28,
+      "share_of_customers_pct": 21.48,
+      "active_mrr": 74769.75,
+      "share_of_churners_pct": 32.74,
+      "cluster_name": "Established high-spend, month-to-month, manual pay"
+    },
+    {
+      "cluster": 2,
+      "customers": 1251,
+      "churn_rate_pct": 30.62,
+      "avg_tenure_months": 23.69,
+      "avg_monthly_charges": 66.34,
+      "avg_addon_services": 1.76,
+      "pct_month_to_month": 86.09,
+      "pct_two_year": 0.16,
+      "pct_autopay": 100.0,
+      "pct_fiber": 48.84,
+      "share_of_customers_pct": 17.76,
+      "active_mrr": 54745.45,
+      "share_of_churners_pct": 20.49,
+      "cluster_name": "Established mid-spend, month-to-month, auto-pay"
+    },
+    {
+      "cluster": 3,
+      "customers": 1502,
+      "churn_rate_pct": 7.92,
+      "avg_tenure_months": 61.41,
+      "avg_monthly_charges": 88.61,
+      "avg_addon_services": 4.39,
+      "pct_month_to_month": 3.66,
+      "pct_two_year": 64.85,
+      "pct_autopay": 81.62,
+      "pct_fiber": 51.53,
+      "share_of_customers_pct": 21.33,
+      "active_mrr": 121416.7,
+      "share_of_churners_pct": 6.37,
+      "cluster_name": "Long-standing high-spend, contracted, auto-pay"
+    },
+    {
+      "cluster": 4,
+      "customers": 974,
+      "churn_rate_pct": 1.75,
+      "avg_tenure_months": 45.84,
+      "avg_monthly_charges": 23.82,
+      "avg_addon_services": 0.18,
+      "pct_month_to_month": 0.0,
+      "pct_two_year": 71.77,
+      "pct_autopay": 60.47,
+      "pct_fiber": 0.62,
+      "share_of_customers_pct": 13.83,
+      "active_mrr": 22742.8,
+      "share_of_churners_pct": 0.91,
+      "cluster_name": "Long-standing low-spend, contracted"
+    }
+  ]
+}
