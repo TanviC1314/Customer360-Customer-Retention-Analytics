@@ -222,7 +222,7 @@ A real Power BI screenshot will be added when the `.pbix` is built from the guid
 | # | Enhancement | Status |
 |---|---|---|
 | 1 | Customer segmentation with K-Means | ✅ Done – `src/segmentation.py`, 10 tests, k=5 (silhouette 0.34), report and figures in `reports/`, dashboard CSVs in `dashboard/dashboard_data/` |
-| 2 | Advanced churn prediction with hyper-parameter tuning | pending |
+| 2 | Advanced churn prediction with hyper-parameter tuning | ✅ Done – `src/model_tuning.py`, 7 tests, `RandomizedSearchCV` (30 iter, 5-fold), report in `reports/tuning_results.md` |
 | 3 | More detailed feature-importance analysis | pending |
 | 4 | SHAP-based model explanations | pending |
 | 5 | Individual customer churn-risk explanations | pending |
