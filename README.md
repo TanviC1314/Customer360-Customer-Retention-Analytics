@@ -225,7 +225,7 @@ A real Power BI screenshot will be added when the `.pbix` is built from the guid
 | 2 | Advanced churn prediction with hyper-parameter tuning | ✅ Done – `src/model_tuning.py`, 7 tests, `RandomizedSearchCV` (30 iter, 5-fold), report in `reports/tuning_results.md` |
 | 3 | More detailed feature-importance analysis | pending |
 | 4 | SHAP-based model explanations | ✅ Done – `src/explainability.py`, 8 tests, `shap.TreeExplainer` on XGBoost, global bar + beeswarm plots, report in `reports/shap_global_results.md` |
-| 5 | Individual customer churn-risk explanations | pending |
+| 5 | Individual customer churn-risk explanations | ✅ Done – `src/customer_explanations.py`, 8 tests, top risk factors + retention signals per customer, batch CSV export to `dashboard/dashboard_data/customer_explanations.csv` |
 | 6 | Customer lifetime value prediction | pending |
 | 7 | Retention campaign recommendation engine | pending |
 | 8 | More advanced customer segmentation dashboard | pending |
